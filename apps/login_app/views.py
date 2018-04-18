@@ -9,6 +9,9 @@ def index ( request ):
 def login(request):
 	pass
 
+def register(request):
+	pass
+
 # def index(request):
 #     if 'counter' not in request.session:
 #         request.session['counter'] = 0
